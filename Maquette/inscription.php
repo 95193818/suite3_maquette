@@ -9,7 +9,7 @@
     <section class="inscription">
         <h3>INSCRIPTION</h3>
         <div>
-            <form>
+            <form action="traitementInscription.php" method="post">
                 <div>
                     <label for="" style="margin-right: 100px;">Firstname</label><br>
                     <input type="text" id="firstname" name="firstname">
@@ -32,11 +32,12 @@
                 </div><br>
                     <label for="" style="margin-right: 35px;">Confirm password</label><br>
                     <input type="text" id="confirm password" name="confirm password">
-            </form>
-        </div><br>
-        <div class="enregistrer">
-            <button style="background-color:blue;">Save</button>
+                    <div class="enregistrer">
+            <button type="submit" style="background-color:blue;">Register</button>
         </div>
+                </form>
+        </div><br>
+        
     </section>
 </body>
 </html>
