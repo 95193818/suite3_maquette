@@ -1,0 +1,72 @@
+html{
+    width: 100%;
+
+}
+
+.naba{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 25% 50%;
+    padding: 1px;
+    text-align: right;
+    max-width: 5000px;
+    height: 530px;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    padding-top: 16px;
+}
+
+.one{
+    display: flex;
+}
+
+.dern{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 10px;
+}
+
+
+.img1{
+    display: flex;
+    gap: 50px;
+    margin-right: 50px;
+}
+.img2{
+    display: flex;
+    gap: 50px;
+}
+.img3{
+    display: flex;
+    gap: 50px;
+}
+.img4{
+    display: flex;
+    gap: 50px;
+}
+
+.imge{
+    width: 250px;
+    height: 250px;
+}
+
+.nav1{
+    display: flex;
+    margin-top: -450px;
+}
+
+.homeshop{
+    margin-left: 450px;
+}
+.SD{
+    display: flex;
+}
+
+.gauche{
+    margin-left: 100px;
+}
+.recherche{
+    display: flex;
+}

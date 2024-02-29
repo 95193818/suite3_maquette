@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+
+.navi{
+    background-image: url(images_shop/Contact-Banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 25% 50%;
+    padding: 1px;
+    text-align: right;
+    max-width: 5000px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    padding-top: 30px;
+}
+
+.den{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    gap: 10px;
+    margin-left: 10px;
+    padding-top: 150px;
+}
+
+.milieu{
+    display: flex;
+    gap: 150px;
+    padding-top: 110px;
+    justify-content: center;
+}
+.basget{
+    padding-top: 70px;
+}

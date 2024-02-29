@@ -1,0 +1,61 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    background-image: url(images_shop/About-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 25% 50%;
+    padding: 1px;
+    max-width: 5000px;
+    height: 530px;
+    gap: 30px;
+    margin-top: -50px;
+}
+
+.given{
+    background-image: url(images_shop/Talk-to-us.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 25% 50%;
+    padding: 100px;
+    max-width: 2000px;
+    height: 383px;
+}
+
+.dernie{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    gap: 10px;
+    margin-left: 10px;
+}
+
+.deux{
+    display: flex;
+    padding-top: 140px;
+    margin-left: 100px;
+    gap: 100px;
+}
+
+.who{
+    margin-top: 100px;
+    margin-right: 500px;
+}
+.menu{
+    height: 350px;
+}
+.giv1{
+    text-align: center;
+}

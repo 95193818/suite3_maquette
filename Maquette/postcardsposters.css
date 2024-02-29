@@ -1,0 +1,44 @@
+
+
+
+
+
+
+
+
+
+
+.na{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    padding-top: 16px;
+}
+
+
+.dn{
+    display: flex;
+    justify-content: center;
+    font-size: small;
+    gap: 10px;
+    margin-left: 10px;
+    padding-top: 100px;
+    font-size: small;
+}
+
+.sec{
+    display: flex;
+    gap: 100px;
+    padding-top: 100px;
+    margin-left: 200px;
+    font-size: small;
+}
+.mili{
+    margin-left: 200px;
+    font-size: small;
+    padding-top: 100px;
+}
+
+.im{
+    display: flex;
+}
